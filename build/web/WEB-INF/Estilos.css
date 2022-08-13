@@ -1,0 +1,21 @@
+body{
+    width: 900PX;
+    margin: auto;
+    background-color: ghostwhite;
+}
+
+h1{ 
+    background-color:orange;
+    color: white;
+}
+
+nav li{
+    display: inline-flex;
+    padding: 5px;
+    background-color: greenyellow;
+}
+
+.menuSuperior{
+    font-size: x-large;
+   
+}
